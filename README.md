@@ -24,7 +24,7 @@ Combiné mi experiencia en el área de **Seguridad Ciudadana** con mi pasión po
 ### 🛠️ Tecnologías y herramientas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,bootstrap,mysql,sqlite,git,github,vite,docker" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,bootstrap,mysql,sqlite,git,github,vite" />
 </p>
 
 ---
