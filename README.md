@@ -1,74 +1,76 @@
-<h1 align="center">👋 ¡Hola! Soy Carlos Otero</h1>
-<h3 align="center">🧠 Full Stack Developer | React • Node.js • Apps con Impacto Social</h3>
+<h1 align="center">Carlos Octavio Otero</h1>
+<h3 align="center">Full Stack Developer | React | Node.js | Software con impacto social</h3>
 
 <p align="center">
-  📍 Buenos Aires, Argentina &nbsp;|&nbsp;
-  💼 Técnico en Programación (TECLAB) &nbsp;|&nbsp;
-  🎓 Licenciado en Seguridad Ciudadana
+  Buenos Aires, Argentina · Técnico en Programación · Licenciado en Seguridad Ciudadana
+</p>
+
+<p align="center">
+  <a href="https://github.com/OteroCarlos1977/Portfolio_Web">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/carlos-octavio-otero-7718a927a/">LinkedIn</a> ·
+  <a href="mailto:oterocarlosoctavio@email.com">Email</a>
 </p>
 
 ---
 
-### 🚀 Sobre mí
+## Perfil profesional
 
-Soy **Full Stack Developer** con una sólida formación técnica y una profunda vocación social.  
-Combiné mi experiencia en el área de **Seguridad Ciudadana** con mi pasión por la **tecnología** para crear soluciones digitales con propósito.
+Soy desarrollador full stack con foco en aplicaciones web útiles, claras y mantenibles. Combino formación técnica en programación con experiencia en seguridad ciudadana, gestión pública y análisis de problemas reales. Me interesa construir software que ayude a ordenar procesos, mejorar la atención a las personas y transformar necesidades concretas en productos funcionales.
 
-- 💻 Trabajo con tecnologías como **Node.js, React, Express, MongoDB, Vite** y más.
-- 🧠 Me interesa el cruce entre desarrollo, **inteligencia artificial aplicada a la seguridad pública**, y la mejora de la calidad de vida mediante software.
-- 🌱 Actualmente me sigo capacitando en **Next.js**, **Prisma**, **Docker** y ciberseguridad.
-- 🚀 Mi objetivo es contribuir a proyectos innovadores, colaborativos y éticos.
+Actualmente trabajo con React, Vite, Node.js, Express, bases de datos SQL/SQLite/MySQL y consumo de APIs REST. Estoy fortaleciendo buenas prácticas de documentación, despliegue, arquitectura frontend/backend y control de calidad.
 
----
-
-### 🛠️ Tecnologías y herramientas
+## Tecnologías
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,html,css,bootstrap,mysql,sqlite,git,github,vite" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,bootstrap,mysql,sqlite,git,github,vite" alt="JavaScript, React, Node.js, Express, HTML, CSS, Bootstrap, MySQL, SQLite, Git, GitHub y Vite" />
 </p>
 
----
+## Proyectos destacados
 
-### 📌 Proyectos destacados
+### [Turnero Hospital](https://github.com/OteroCarlos1977/turnero_hospital)
+Aplicación para gestionar turnos médicos. Incluye selección de especialidad, disponibilidad, registro de pacientes, reserva/cancelación de turnos y panel administrativo. Tiene demo estática preparada para Vercel con datos mock y persistencia en localStorage, además de backend Express/MySQL conservado para desarrollo local.
 
-#### 🔧 [Admin Productos - CRUD](https://github.com/OteroCarlos1977/admin-productos-react)
-Aplicación React para gestión de productos, integrada con MockAPI.  
-Incluye formularios con validación, modales, edición con PUT y alertas de confirmación.
+**Stack:** React, Vite, React Router, Node.js, Express, MySQL, JWT, localStorage.
 
-#### 🌦️ [WeatherApp](https://github.com/OteroCarlos1977/weather-app)
-App de clima construida con React y consumo de API externa.  
-Permite buscar ciudades, ver clima actual y condiciones meteorológicas extendidas.
+### [Portfolio Web](https://github.com/OteroCarlos1977/Portfolio_Web)
+Portfolio personal construido con React + Vite. Presenta perfil profesional, habilidades, proyectos y contacto. Incluye un modo de edición local para modificar contenido desde la interfaz.
 
-#### 🧠 [Tesis: IA y Seguridad Pública](https://github.com/OteroCarlos1977/tesis-ia-seguridad)
-Análisis jurídico-técnico sobre el uso de inteligencia artificial en la seguridad pública argentina.  
-Incluye propuestas normativas y modelos éticos.
+**Stack:** React, Vite, CSS, localStorage.
 
----
+### [Estudio Jurídico React](https://github.com/OteroCarlos1977/estudio_juridico_react)
+Proyecto orientado a la gestión de expedientes y tareas para un estudio jurídico. Está planteado como aplicación full stack con frontend React, backend Node.js y persistencia SQLite.
 
-### 📊 GitHub Stats
+**Stack:** React, Node.js, SQLite.
+
+### [Proyecto Final COO](https://github.com/OteroCarlos1977/proyecto_final_COO)
+Aplicación React desarrollada como proyecto final académico. Usa React, Vite, Bootstrap, React Router y SweetAlert2.
+
+**Stack:** React, Vite, Bootstrap, React Router.
+
+## Enfoque de trabajo
+
+- Desarrollo interfaces claras y orientadas a usuarios reales.
+- Documento instalación, ejecución local, variables de entorno y decisiones técnicas.
+- Priorizo proyectos funcionales antes que demos incompletas.
+- Busco mejorar progresivamente calidad de código, estructura, seguridad y despliegue.
+
+## Próximas mejoras del portfolio GitHub
+
+- Completar README profesional en cada proyecto importante.
+- Agregar capturas o enlaces de demo cuando el proyecto esté desplegado.
+- Corregir dependencias, scripts y pasos de instalación.
+- Separar proyectos académicos, prácticas y productos principales.
+- Publicar el portfolio como sitio accesible y enlazarlo desde este perfil.
+
+## Estadísticas
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=OteroCarlos1977&show_icons=true&theme=default" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OteroCarlos1977&layout=compact" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=OteroCarlos1977&show_icons=true&theme=default" height="150" alt="Estadísticas de GitHub" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=OteroCarlos1977&layout=compact" height="150" alt="Lenguajes más usados" />
 </p>
 
----
+## Contacto
 
-### 🤝 ¿Querés colaborar?
-
-Estoy abierto a proyectos que busquen **impacto real**, aprendizaje compartido y desafíos interesantes.  
-Si querés sugerir mejoras, abrir issues o colaborar en algo, ¡te leo!
-
----
-
-### 📫 Contacto
-
-- 💼 [LinkedIn](https://www.linkedin.com/in/carlos-octavio-otero-7718a927a/)
-- 📧 oterocarlosoctavio@email.com
-- 🌐 Portafolio personal: en desarrollo
-
----
-
-> 🧩 “La tecnología es más poderosa cuando se usa con propósito.” – Carlos Otero
-
-
+- LinkedIn: [Carlos Octavio Otero](https://www.linkedin.com/in/carlos-octavio-otero-7718a927a/)
+- Email: [oterocarlosoctavio@email.com](mailto:oterocarlosoctavio@email.com)
+- GitHub: [OteroCarlos1977](https://github.com/OteroCarlos1977)
