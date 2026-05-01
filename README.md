@@ -28,9 +28,11 @@ Actualmente trabajo con React, Vite, Node.js, Express, bases de datos SQL/SQLite
 
 ## Proyectos destacados
 
-### [Turnero Hospital](https://github.com/OteroCarlos1977/turnero_hospital)
+### [Turnero Hospital](https://turnero-hospital-two.vercel.app/)
 Aplicación para gestionar turnos médicos. Incluye selección de especialidad, disponibilidad, registro de pacientes, reserva/cancelación de turnos y panel administrativo. Tiene demo estática preparada para Vercel con datos mock y persistencia en localStorage, además de backend Express/MySQL conservado para desarrollo local.
 
+**Demo:** [turnero-hospital-two.vercel.app](https://turnero-hospital-two.vercel.app/)  
+**Repositorio:** [OteroCarlos1977/turnero_hospital](https://github.com/OteroCarlos1977/turnero_hospital)  
 **Stack:** React, Vite, React Router, Node.js, Express, MySQL, JWT, localStorage.
 
 ### [Portfolio Web](https://oterocarlos1977.github.io/Portfolio_Web/)
