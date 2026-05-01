@@ -6,7 +6,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/OteroCarlos1977/Portfolio_Web">Portfolio</a> ·
+  <a href="https://oterocarlos1977.github.io/Portfolio_Web/">Portfolio publicado</a> ·
+  <a href="https://github.com/OteroCarlos1977/Portfolio_Web">Repositorio</a> ·
   <a href="https://www.linkedin.com/in/carlos-octavio-otero-7718a927a/">LinkedIn</a> ·
   <a href="mailto:oterocarlosoctavio@email.com">Email</a>
 </p>
@@ -32,10 +33,10 @@ Aplicación para gestionar turnos médicos. Incluye selección de especialidad, 
 
 **Stack:** React, Vite, React Router, Node.js, Express, MySQL, JWT, localStorage.
 
-### [Portfolio Web](https://github.com/OteroCarlos1977/Portfolio_Web)
-Portfolio personal construido con React + Vite. Presenta perfil profesional, habilidades, proyectos y contacto. Incluye un modo de edición local para modificar contenido desde la interfaz.
+### [Portfolio Web](https://oterocarlos1977.github.io/Portfolio_Web/)
+Portfolio personal construido con React + Vite. Presenta perfil profesional, habilidades, proyectos, contacto e imagen de perfil tomada desde GitHub. Incluye un modo de edición local para modificar contenido desde la interfaz.
 
-**Stack:** React, Vite, CSS, localStorage.
+**Stack:** React, Vite, CSS, localStorage, GitHub Pages.
 
 ### [Estudio Jurídico React](https://github.com/OteroCarlos1977/estudio_juridico_react)
 Proyecto orientado a la gestión de expedientes y tareas para un estudio jurídico. Está planteado como aplicación full stack con frontend React, backend Node.js y persistencia SQLite.
@@ -57,10 +58,10 @@ Aplicación React desarrollada como proyecto final académico. Usa React, Vite, 
 ## Próximas mejoras del portfolio GitHub
 
 - Completar README profesional en cada proyecto importante.
-- Agregar capturas o enlaces de demo cuando el proyecto esté desplegado.
+- Agregar capturas o enlaces de demo en los proyectos principales.
 - Corregir dependencias, scripts y pasos de instalación.
 - Separar proyectos académicos, prácticas y productos principales.
-- Publicar el portfolio como sitio accesible y enlazarlo desde este perfil.
+- Mantener el portfolio publicado sincronizado con los avances reales.
 
 ## Estadísticas
 
@@ -71,6 +72,7 @@ Aplicación React desarrollada como proyecto final académico. Usa React, Vite, 
 
 ## Contacto
 
+- Portfolio: [oterocarlos1977.github.io/Portfolio_Web](https://oterocarlos1977.github.io/Portfolio_Web/)
 - LinkedIn: [Carlos Octavio Otero](https://www.linkedin.com/in/carlos-octavio-otero-7718a927a/)
 - Email: [oterocarlosoctavio@email.com](mailto:oterocarlosoctavio@email.com)
 - GitHub: [OteroCarlos1977](https://github.com/OteroCarlos1977)
