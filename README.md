@@ -1,8 +1,8 @@
 <h1 align="center">Carlos Octavio Otero</h1>
-<h3 align="center">Full Stack Developer | React | Node.js | Software con impacto social</h3>
+<h3 align="center">Full Stack Developer | React | Node.js | Big Data</h3>
 
 <p align="center">
-  Buenos Aires, Argentina · Técnico en Programación · Licenciado en Seguridad Ciudadana
+  Buenos Aires, Argentina · Técnico en Programación · Desarrollo web y datos
 </p>
 
 <p align="center">
@@ -16,15 +16,17 @@
 
 ## Perfil profesional
 
-Soy desarrollador full stack con foco en aplicaciones web útiles, claras y mantenibles. Combino formación técnica en programación con experiencia en seguridad ciudadana, gestión pública y análisis de problemas reales. Me interesa construir software que ayude a ordenar procesos, mejorar la atención a las personas y transformar necesidades concretas en productos funcionales.
+Soy desarrollador full stack con foco en aplicaciones web útiles, claras y mantenibles. Combino formación técnica en programación con conocimientos en Big Data, análisis de datos y modelado de información. Me interesa construir software que ayude a ordenar procesos, visualizar información y transformar necesidades concretas en productos funcionales.
 
-Actualmente trabajo con React, Vite, Node.js, Express, bases de datos SQL/SQLite/MySQL y consumo de APIs REST. Estoy fortaleciendo buenas prácticas de documentación, despliegue, arquitectura frontend/backend y control de calidad.
+Actualmente trabajo con React, Vite, Node.js, Express, bases de datos SQL/SQLite/MySQL y consumo de APIs REST. Estoy fortaleciendo buenas prácticas de documentación, despliegue, arquitectura frontend/backend, análisis de datos y control de calidad.
 
 ## Tecnologías
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,html,css,bootstrap,mysql,sqlite,git,github,vite" alt="JavaScript, React, Node.js, Express, HTML, CSS, Bootstrap, MySQL, SQLite, Git, GitHub y Vite" />
 </p>
+
+**Áreas de datos:** Big Data, análisis de datos, modelado de datos y visualización de información.
 
 ## Proyectos destacados
 
@@ -36,7 +38,7 @@ Aplicación para gestionar turnos médicos. Incluye selección de especialidad, 
 **Stack:** React, Vite, React Router, Node.js, Express, MySQL, JWT, localStorage.
 
 ### [Portfolio Web](https://oterocarlos1977.github.io/Portfolio_Web/)
-Portfolio personal construido con React + Vite. Presenta perfil profesional, habilidades, proyectos, contacto e imagen de perfil tomada desde GitHub. Incluye un modo de edición local para modificar contenido desde la interfaz.
+Portfolio personal construido con React + Vite. Presenta perfil profesional, habilidades, proyectos, contacto, imagen de perfil y logo personal CO. Incluye un modo de edición local para modificar contenido desde la interfaz.
 
 **Stack:** React, Vite, CSS, localStorage, GitHub Pages.
 
@@ -55,7 +57,7 @@ Aplicación React desarrollada como proyecto final académico. Usa React, Vite, 
 - Desarrollo interfaces claras y orientadas a usuarios reales.
 - Documento instalación, ejecución local, variables de entorno y decisiones técnicas.
 - Priorizo proyectos funcionales antes que demos incompletas.
-- Busco mejorar progresivamente calidad de código, estructura, seguridad y despliegue.
+- Busco mejorar progresivamente calidad de código, estructura, datos y despliegue.
 
 ## Próximas mejoras del portfolio GitHub
 
